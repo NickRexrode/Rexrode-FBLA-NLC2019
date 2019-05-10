@@ -13,3 +13,5 @@ Inside the Program, there is a help menu, which have tips and tricks about the p
 I'm always looking for ways to improve my code, so please leave feedback if you can :)
 
 Thanks!
+
+As a side note - My chrome flagged this file as a threat.  I believe the treat comes from the SQL database, or the JDBC.  I'm not an expert but its probably something to do with the Connections that JDBC can make.  The Project is 100% free of any viruses.
