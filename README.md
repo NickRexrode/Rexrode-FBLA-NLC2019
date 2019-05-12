@@ -8,7 +8,13 @@ Be sure that you add the JDBC jar file to the projects build path! This is neede
 
 I've included the source code. You can either use GitHub to view it, or import it into your IDE to run it  I created this program in Eclipse on a computer with a 1920 x 1080 display.  The Display is important because my constraints have been hit or miss.  I've tried on a few other resolutions which have work; however, it may be distorted on some resolutions.
 
-Inside the Program, there is a help menu, which have tips and tricks about the program.  
+Inside the Program, there is a help menu, which have tips and tricks about the program.
+
+To access parts of the program, you need to login.  The two valid logins I made prior are:
+username:password
+admin:admin
+user:pass
+
 
 I'm always looking for ways to improve my code, so please leave feedback if you can :)
 
